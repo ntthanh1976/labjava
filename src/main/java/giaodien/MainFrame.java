@@ -130,7 +130,8 @@ public class MainFrame extends javax.swing.JFrame {
            if(p2==null)
              p2 =new BookManagementPanel();
          mainTab.addTab("Quản lý sách", p2);
-         mainTab.setSelectedComponent(p2);
+         //mainTab.setSelectedComponent(p2);
+         
     }//GEN-LAST:event_btnSachActionPerformed
 
     /**
